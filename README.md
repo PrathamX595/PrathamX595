@@ -47,6 +47,7 @@ Let's connect and build something amazing together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="45px" width="45px"/>
 <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23CBCBCB" height="45px" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="45px" width="45px"/>
