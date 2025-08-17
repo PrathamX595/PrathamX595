@@ -55,6 +55,7 @@ Let's connect and build something amazing together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45px" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45px" width="45px"/>  
