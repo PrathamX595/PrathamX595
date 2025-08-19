@@ -78,6 +78,22 @@ Let's connect and build something amazing together!
 
 ### 🔥 My stats :
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamX595&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=github_dark&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&count_private=true&layout=donut&theme=github_dark&hide_border=true&langs_count=11)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamX595&count_private=true&theme=github_dark&hide_border=true"/>
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PrathamX595&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=github_dark&hide_border=true&rank_icon=github"/>
+      </td>
+      <td rowspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&count_private=true&layout=donut&theme=github_dark&hide_border=true&langs_count=11"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamX595&count_private=true&theme=github_dark&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
