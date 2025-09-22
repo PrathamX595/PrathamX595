@@ -14,6 +14,9 @@ Let's connect and build something amazing together!
   <a href="mailto:sethpratham67@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://peerlist.io/prtm_sth" target="_blank" align="center">
+    <img src="https://github-readme-badge.peerlist.io/api/prtm_sth?style=for-the-badge" target="_blank"/>    
+  </a>
   <a href="https://discord.gg/XHqMqJ65" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
