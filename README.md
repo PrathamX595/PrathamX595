@@ -86,7 +86,7 @@ Let's connect and build something amazing together!
         <img src="https://github-readme-stats.vercel.app/api?username=PrathamX595&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=github_dark&hide_border=true&rank_icon=github"/>
       </td>
       <td rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&count_private=true&layout=donut&theme=github_dark&hide_border=true&langs_count=10"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&count_private=true&layout=donut&theme=github_dark&hide_border=true&langs_count=11"/>
       </td>
     </tr>
     <tr>
