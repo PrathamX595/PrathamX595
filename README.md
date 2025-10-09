@@ -26,7 +26,7 @@ Let's connect and build something amazing together!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>  
 <img src="https://devicon-website.vercel.app/api/c/original.svg" height="45px" width="45px"/>
