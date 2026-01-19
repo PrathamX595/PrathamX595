@@ -97,7 +97,7 @@ Let's connect and build something amazing together!
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrathamX595&show=prs_merged_percentage&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
       </td>
       <td rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&count_private=true&layout=donut&theme=github_dark&hide_border=true&langs_count=10&hide=html,css"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamX595&layout=donut&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&exclude_repo=Kortex-AdobeSubmission"/>
       </td>
     </tr>
     <tr>
